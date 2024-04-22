@@ -1,8 +1,8 @@
-package in.ps.service;
+package com.suhas.service;
 
 import java.util.List;
 
-import in.ps.entity.Product;
+import com.suhas.entity.Product;
 
 public interface ProductService {
 
